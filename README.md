@@ -61,6 +61,20 @@ output/
 
 ---
 
+## Key Findings
+
+- Apple achieved the highest average customer satisfaction score (4.39/5).
+- OPPO and Samsung also received high satisfaction ratings, both above 4.2.
+- vivo and Xiaomi showed relatively lower satisfaction scores compared with the other brands.
+
+---
+
+## Business Recommendation
+
+- Maintain Apple and OPPO's strengths in customer experience.
+- Investigate the factors contributing to lower satisfaction among vivo and Xiaomi users.
+- Prioritize improvements in product quality and customer experience for brands with lower satisfaction scores.
+
 ## Author
 
 Umiwithdata
